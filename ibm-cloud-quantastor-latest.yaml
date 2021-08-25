@@ -1,0 +1,31 @@
+app_id: quantastor
+title: QuantaStor
+version: 5.10.1
+revision: '0'
+kind: ova
+image:
+  url: https://downloads.osnexus.com/osn_quantastor_ibmcloud_bionic_latest.ova
+  sha256: 87cc7d5b452a8bcd50672ec79ba4ccf2edeae7423694d54d72e246a39a5121fa
+eula_url: https://wiki.osnexus.com/index.php?title=QuantaStor_EULA
+eula_label: OSNEXUS END USER LICENSE AGREEMENT
+categories:
+- network
+- target_vcenter
+logo: https://s3.us-west-2.amazonaws.com/www.osnexus.com/ibmcloud/icons-192.png
+description: QuantaStor VSA provides a enterprise NAS, SAN, and S3 object storage platform with both scale-up and scale-out capabilities.
+readme: |
+  QuantaStor is a unified file, block and object Software Defined Storage (SDS) platform that delivers NAS, SAN, and S3-compatible object storage.  QuantaStor is may be deployed as a single appliance or multiple appliances may be combined to form a highly-available scale-out storage cluster.  QuantaStor has advanced security features and is compliant to many security standards (HIPAA, CJIS, NIST 800-53) making it robust and ideal for a broad spectrum of applications.
+  
+  ## Getting Started
+  QuantaStor includes pre-go-live configuration assistance and basic training.  Be sure to contact OSNexus support for assistance in getting your new VSA configured and setup for use with your applications.
+  
+  ## Getting support
+  This offering is provided and supported by OSNexus. If you encounter any issues, navigate to [https://www.osnexus.com/contact-support). You will find there useful documentation and the links to open a support case depending on your target. QuantaStor VSAs are offered in the IBM Cloud as a QuantaStor Cloud Edition license that includes 24/7 worldwide support.
+links:
+- id: docs_index
+  title: Getting Started
+  url: https://wiki.osnexus.com/index.php?title=%2B_Getting_Started_Overview
+- id: support_index
+  title: OSNexus Support
+  url: https://www.osnexus.com/contact-support
+
