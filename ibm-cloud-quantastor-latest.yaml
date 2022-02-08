@@ -1,11 +1,11 @@
 app_id: quantastor
 title: QuantaStor
-version: 5.10.1
+version: 5.11.5
 revision: '0'
 kind: ova
 image:
   url: https://downloads.osnexus.com/osn_quantastor_ibmcloud_bionic_latest.ova
-  sha256: 87cc7d5b452a8bcd50672ec79ba4ccf2edeae7423694d54d72e246a39a5121fa
+  sha256: 475cfe714a722de31abe5988269e999e533254be05710ce82ab6b6c6e3dc293b
 eula_url: https://wiki.osnexus.com/index.php?title=QuantaStor_EULA
 eula_label: OSNEXUS END USER LICENSE AGREEMENT
 categories:
